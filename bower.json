@@ -1,0 +1,22 @@
+{
+  "name": "movies",
+  "description": "movies collection",
+  "main": "app.js",
+  "authors": [
+    "<rrf@929364730@qq.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "movies",
+    "collection"
+  ],
+  "homepage": "https://github.com/formych/movies",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
