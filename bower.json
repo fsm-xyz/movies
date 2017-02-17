@@ -1,0 +1,27 @@
+{
+	"name": "movies",
+	"description": "movies collection",
+	"main": "app.js",
+	"authors": [
+		"<rrf@929364730@qq.com>"
+	],
+	"license": "MIT",
+	"keywords": [
+		"movies",
+		"collection"
+	],
+	"homepage": "https://github.com/formych/movies",
+	"private": true,
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests",
+		"public/libs"
+	],
+	"dependencies": {
+		"jquery": "^3.1.1",
+		"bootstrap": "^3.3.7"
+	}
+}

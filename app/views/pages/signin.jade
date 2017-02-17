@@ -1,0 +1,18 @@
+extends ../layout
+
+block content
+  .container
+    .row
+      .col-md-5
+        form(method="POST", action="/user/signin")
+          .modal-header 登录
+          .modal-body
+            .form-group
+              label(for="#signupName") 用户名
+              input#signupName.form-control(name="user[name]", type="text")
+            .form-group
+              label(for="signupPassword") 密码
+              input#signupPassword.form-control(name="user[password]",type="password")
+          .modal-footer
+            button.btn.btn-default(type="reset") 重置
+            button.btn.btn-success(type="submit") 提交
