@@ -7,3 +7,5 @@
 #### V2 Based on version 1, 完成于20170217
 
 #### todo: fixs bug
+
+### Note： 一定要执行bower install(加载对应的bootstrap)和 npm install
