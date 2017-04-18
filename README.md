@@ -4,4 +4,6 @@
 
 #### V1基于第一期的视频编写，完成于20170101，选择标签1可以选择对应的1期
 
-#### V2Based on version 2, 20170217, todo: fixs bug
+#### V2 Based on version 1, 完成于20170217
+
+#### todo: fixs bug
